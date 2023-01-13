@@ -1,0 +1,8 @@
+django==3.2.16
+django-environ==0.9.0 #Ocultar contras
+django-cors-headers==3.13.0 #conectar front y back
+djangorestframework==3.14.0 #creacion de API
+Pillow==9.3.0
+django-storages==1.13.1 #Para guardar imgs
+django-ckeditor==6.3.2 #Para crear más fuentes
+psycopg2==2.9.5 #SQL
